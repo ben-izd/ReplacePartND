@@ -1,0 +1,12 @@
+[package]
+name = "replace_part_nd"
+version = "0.1.0"
+edition = "2021"
+authors = ["Benjamin Izadpanah"]
+
+[lib]
+crate-type = ["cdylib"]
+
+
+[dependencies]
+wolfram-library-link = "0.2.10"
